@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## Welcome to Archbold Electric
 
-You can use the [editor on GitHub](https://github.com/brandon-a/archbold-electric-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Archbold Electric was founded in 1990 on the San Francisco Peninsula. We are a small family business servicing: residential, custom lighting, Lutron lighting control, alternative energy, light commercial, electrical repair, panel upgrades, solar installations, and more. We have teamed up with some of the best builders and manufacturer's in the industry. Providing you with a full service solution for all your electrical needs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Designing and installing, technologies for your modern home or office space! Your Smart Choice for your Smart Home!
 
-### Markdown
+### Services
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Service/Repair
+- New Construction
+- Remodels
+- Panel Upgrades
+- Electric car charger installs.
+- Custom Lighting
+- Lighting Design
+- Lutron Lighting Controls
+- Design and Build Residential & Commercial
+- Solar Energy
+- Generators Emergency backup and Co Generation
+- Integrated building systems / Building automation
+- Energy Audits
+- Power Shavers 
+- Lighting Repair
+- Solar Energy
 
-```markdown
-Syntax highlighted code block
+### Contact Us
 
-# Header 1
-## Header 2
-### Header 3
+# Cell Phone
 
-- Bulleted
-- List
+Placeholder
 
-1. Numbered
-2. List
+# Office Phone
 
-**Bold** and _Italic_ and `Code` text
+Placeholder
 
-[Link](url) and ![Image](src)
-```
+# Email
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Placeholder
 
-### Jekyll Themes
+# Fax Number
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brandon-a/archbold-electric-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Placeholder
 
-### Support or Contact
+# Main Office:
+303 Convention Way Unit 6,
+Redwood City, CA 94063
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Testimonials
+
+> We recently purchased a home built in 1952 that still had its original electrical system. We solicited bids from three electricians and ultimately hired Archibold to upgrade the service to 200 amps and handle a long list of upgrade and replacement work throughout the home.
+
+> This is the third old home that we've purchased and updated and after working with Brian and his crew, we have to say that they are first rate electricians.  Neat, clean, knowledgeable, thoughtful and all at a fair price.
+
+# - Nate W.
