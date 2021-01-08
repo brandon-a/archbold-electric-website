@@ -25,23 +25,23 @@ Designing and installing, technologies for your modern home or office space! You
 
 ### Contact Us
 
-# Cell Phone
+#### Cell Phone
 
 Placeholder
 
-# Office Phone
+#### Office Phone
 
 Placeholder
 
-# Email
+#### Email
 
 Placeholder
 
-# Fax Number
+#### Fax Number
 
 Placeholder
 
-# Main Office:
+#### Main Office:
 303 Convention Way Unit 6,
 Redwood City, CA 94063
 
@@ -51,4 +51,4 @@ Redwood City, CA 94063
 
 > This is the third old home that we've purchased and updated and after working with Brian and his crew, we have to say that they are first rate electricians.  Neat, clean, knowledgeable, thoughtful and all at a fair price.
 
-# - Nate W.
+##### - Nate W.
