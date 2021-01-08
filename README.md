@@ -27,19 +27,19 @@ Designing and installing, technologies for your modern home or office space! You
 
 #### Cell Phone
 
-Placeholder
+![cell-phone](cell-phone.png)
 
 #### Office Phone
 
-Placeholder
+![office-phone](office-phone.png)
 
 #### Email
 
-Placeholder
+![email](email.png)
 
 #### Fax Number
 
-Placeholder
+![fax-number](fax-number.png)
 
 #### Main Office:
 303 Convention Way Unit 6,
