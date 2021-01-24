@@ -52,3 +52,5 @@ Redwood City, CA 94063
 > This is the third old home that we've purchased and updated and after working with Brian and his crew, we have to say that they are first rate electricians.  Neat, clean, knowledgeable, thoughtful and all at a fair price.
 
 ##### - Nate W.
+
+[Check us out on Yelp!](https://www.yelp.com/biz/archbold-electric-inc-redwood-city-2)
