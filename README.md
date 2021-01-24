@@ -27,19 +27,19 @@ Designing and installing, technologies for your modern home or office space! You
 
 #### Cell Phone
 
-![cell-phone](cell-phone.png)
+650-670-6435
 
 #### Office Phone
 
-![office-phone](office-phone.png)
+650-369-2234
 
 #### Email
 
-![email](email.png)
+brian@archboldelectric.com
 
 #### Fax Number
 
-![fax-number](fax-number.png)
+650-364-8021
 
 #### Main Office:
 303 Convention Way Unit 6,
